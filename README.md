@@ -13,6 +13,8 @@ I'm open to new projects, collaborations, and exciting opportunities in the tech
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/Amjad-Bin-Aslam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-bin-aslam-58813530b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadbinaslam604@gmail.com)
+
 
 
 Thank you for stopping by! If you're looking to build innovative web solutions or explore dynamic open-source projects, I’d love to collaborate. 🚀
